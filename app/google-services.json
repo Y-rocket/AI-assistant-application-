@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "1094184842324",
-    "project_id": "uofcanadaai",
-    "storage_bucket": "uofcanadaai.firebasestorage.app"
+    "project_number": "137120768645",
+    "project_id": "uofcandaai",
+    "storage_bucket": "uofcandaai.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1094184842324:android:a7ac6e985293a648ee29c1",
+        "mobilesdk_app_id": "1:137120768645:android:f584bf71a2e7853d23ffec",
         "android_client_info": {
           "package_name": "com.example.uofcanadaai"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyASA2AFtXCnWBy8UWlyzdNc4m7GUb5kMwE"
+          "current_key": "AIzaSyBYfowYbaNb-I1-dfu0ZwzKCyDZuOlb1Zg"
         }
       ],
       "services": {

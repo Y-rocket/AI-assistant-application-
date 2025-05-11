@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+
+    <color name="white_pure">#FFFFFF</color>
+    <color name="white_soft">#F5F5F5</color>
+    <color name="white_elevated">#FAFAFA</color>
+    <color name="white_translucent_80">#CCFFFFFF</color>
+    <color name="white_translucent_50">#80FFFFFF</color>
+
+    <color name="red_light">#FFCDD2</color>
+    <color name="red">#F44336</color>
+    <color name="red_dark">#D32F2F</color>
+    <color name="red_accent">#FF5252</color>
+
+
+    <color name="blue_light">#BBDEFB</color>
+    <color name="blue">#2196F3</color>
+    <color name="blue_dark">#1565C0</color>
+    <color name="blue_accent">#448AFF</color>
+
+
+    <color name="background">#F0F0F0</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="on_surface">#212121</color>
 </resources>
