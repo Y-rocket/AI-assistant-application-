@@ -523,7 +523,7 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
     }
 
     private fun sendToGemini(file: File, mimeType: String, prompt: String) {
-        val apiKey = "AIzaSyDUO-x2xal3KGDDDaiXRhbQnaKR1P3Iklw"
+        val apiKey = "Place YOUR API KEY HERE FOR GEMINI"
         val base64 = android.util.Base64.encodeToString(file.readBytes(), android.util.Base64.NO_WRAP)
 
         val json = """
