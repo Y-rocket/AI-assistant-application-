@@ -8,7 +8,7 @@ import kotlinx.coroutines.withContext
 class GeminiClient {
     private val model = GenerativeModel(
         modelName = "gemini-2.0-flash",
-        apiKey = "AIzaSyDUO-x2xal3KGDDDaiXRhbQnaKR1P3Iklw"
+        apiKey = "Place your API KEY HERE FOR GEMINI"
     )
 
     suspend fun generateResponse(prompt: String): String = withContext(Dispatchers.IO) {
